@@ -10,6 +10,7 @@ i aim to run this as part of bigger automation<br>
 ./soundcloud_downloader.py <playlist-url> [desired_downloaded_tracks_amount]
 ```
 - if you're downloading from soundcloud, you can pass this as the `<playlist-url>` param: <br> ```soundcloud.com/<user>/likes```
+- don't forget to give the script permissions, ask AI if you don't know :)
 
 # todo 
 what is important to me is:
