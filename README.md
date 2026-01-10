@@ -5,6 +5,12 @@ i don't want to have my yt account blocked so the script doesn't use cookies<br>
 i aim to run this as part of bigger automation<br>
 > :thought_balloon: **My Dream:** I like a track on yt, it gets simontaneously downloaded.
 
+# Usage
+```python
+./soundcloud_downloader.py <playlist-url> [desired_amount_of_downloaded_tracks]
+```
+- if you're downloading from soundcloud, you can pass this as the `<playlist-url>` param: ```soundcloud.com/<user>/likes```
+
 # Todo 
 what is important to me is:
 - [X] ensuring audio is the best available quality
@@ -13,8 +19,8 @@ what is important to me is:
 - [X] skips already downloaded tracks across different executions
 
 BONUS:
-- [ ] be able to download from soundcloud (might work already haven't tested)
-- [ ] be able to download from bandcamp? 
+- [X] be able to download from soundcloud 
+- [ ] be able to download from bandcamp 
 
 ULTRA_BONUS:
 - [ ] be able to download tracks from Soulseek
