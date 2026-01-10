@@ -7,8 +7,8 @@ what is important to me is:
 - [X] be able to pass different playlist url as i please
 
 BONUS:
-- be able to download from soundcloud
-- be able to download from bandcamp? 
+- [ ] be able to download from soundcloud
+- [ ] be able to download from bandcamp? 
 
 ULTRA_BONUS:
-- be able to download tracks from Soulseek
+- [ ] be able to download tracks from Soulseek
