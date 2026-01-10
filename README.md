@@ -7,7 +7,7 @@ i aim to run this as part of bigger automation<br>
 
 # usage
 ```python
-./soundcloud_downloader.py <playlist-url> [desired_amount_of_downloaded_tracks]
+./soundcloud_downloader.py <playlist-url> [desired_downloaded_tracks_amount]
 ```
 - if you're downloading from soundcloud, you can pass this as the `<playlist-url>` param: <br> ```soundcloud.com/<user>/likes```
 
