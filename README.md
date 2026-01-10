@@ -5,6 +5,7 @@ what is important to me is:
 - [X] ensuring audio is the best available quality
 - [X] getting the artist cover for the mp3 track
 - [X] be able to pass different playlist url as i please
+- [X] skips already downloaded tracks across different executions
 
 BONUS:
 - [ ] be able to download from soundcloud
