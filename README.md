@@ -1,4 +1,4 @@
-yt-dlp --cookies-from-browser firefox "https://www.youtube.com/playlist?list=PLSqC23_g7xEOe_J3-KGgvp9UOLbaUMznm"
+yt-dlp --cookies-from-browser firefox "https://www.youtube.com/playlist?list=PLSqC23_g7xEOe_J3-KGgvp9UOLbaUMznm"<br>
 this command enables me to download a whole youtube playlist
 
 what is important to me is:
