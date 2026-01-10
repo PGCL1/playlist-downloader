@@ -1,6 +1,11 @@
-this command enables me to download a whole youtube playlist
-```yt-dlp --cookies-from-browser firefox URL``` <br>
+# Prelude
+i find most of my tracks on youtube<br>
+i would like to download full playlists on the go<br>
+i don't want to have my yt account blocked so the script doesn't use cookies<br>
+i aim to run this as part of bigger automation<br>
+> :thought_balloon: **My Dream:** I like a track on yt, it gets simontaneously downloaded.
 
+# Todo 
 what is important to me is:
 - [X] ensuring audio is the best available quality
 - [X] getting the artist cover for the mp3 track
@@ -8,8 +13,12 @@ what is important to me is:
 - [X] skips already downloaded tracks across different executions
 
 BONUS:
-- [ ] be able to download from soundcloud
+- [ ] be able to download from soundcloud (might work already haven't tested)
 - [ ] be able to download from bandcamp? 
 
 ULTRA_BONUS:
 - [ ] be able to download tracks from Soulseek
+
+## Notes
+this command enables me to download a whole youtube playlist
+```yt-dlp --cookies-from-browser firefox URL``` <br>
