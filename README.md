@@ -1,5 +1,5 @@
-yt-dlp --cookies-from-browser firefox URL <br>
 this command enables me to download a whole youtube playlist
+```yt-dlp --cookies-from-browser firefox URL``` <br>
 
 what is important to me is:
 - [X] ensuring audio is the best available quality
