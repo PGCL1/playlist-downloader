@@ -21,7 +21,6 @@ what is important to me is:
 
 bonus:
 - [x] be able to download from soundcloud 
-- [ ] be able to download from bandcamp 
 
 ultra_bonus:
 - [ ] be able to download tracks from soulseek
