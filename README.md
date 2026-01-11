@@ -21,6 +21,7 @@ what is important to me is:
 
 bonus:
 - [x] be able to download from soundcloud 
+- [ ] integrate with spotify-dlp but make it use my downloader in the background
 
 ultra_bonus:
 - [ ] be able to download tracks from soulseek
