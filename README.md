@@ -18,9 +18,12 @@ what is important to me is:
 - [x] getting the artist cover for the mp3 track
 - [x] be able to pass different playlist url as i please
 - [x] skips already downloaded tracks across different executions
+- [ ] add BPM and Key as prefix to each downloaded track
+
 
 bonus:
 - [x] be able to download from soundcloud 
+- [ ] is there a way to analyze the tracks using an API to the Recorbox function
 - [ ] integrate with spotify-dlp but make it use my downloader in the background
 
 ultra_bonus:
